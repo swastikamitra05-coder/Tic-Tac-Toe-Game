@@ -13,7 +13,7 @@ A clean and interactive Tic Tac Toe game with a basic AI opponent, built using H
 - JavaScript
 
 ## Screenshot
-game-ui.png
+images/game-ui.png
 
 ## How to Run
 1. Clone the repo
